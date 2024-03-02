@@ -1,11 +1,20 @@
 <h3 align="center">
   
-  ![header](https://firebasestorage.googleapis.com/v0/b/franki-briones.appspot.com/o/sofware%20developer%20fb.gif?alt=media&token=59c7e78f-508f-42ce-a94e-709d69210163) 
+  ![header](https://miro.medium.com/v2/resize:fit:1200/1*NHF0GkAHrHb5mzNFPQ_01g.gif) 
   
- # Welcome I'm Franki Briones !
+ # Interceptors !
 
 </h3> 
 <br></br>
+
+### En Angular, puedes usar cualquier cantidad de interceptores que necesites en tu aplicación. No hay un límite específico impuesto por Angular en cuanto al número de interceptores que puedes utilizar.
+- Angular está diseñado para ser altamente modular y flexible, lo que te permite dividir la lógica de la aplicación en diferentes servicios, componentes y, por supuesto, interceptores. Esto significa que puedes crear tantos interceptores como necesites para manejar diversas tareas de interceptación, como autenticación, manejo de errores, manejo de caché, manipulación de solicitudes y respuestas, entre otros.
+
+- Cuando registras múltiples interceptores en el módulo de tu aplicación, Angular los ejecuta en el orden en que los registras. Esto significa que puedes controlar el orden de ejecución de los interceptores según tus necesidades.
+
+- Por ejemplo, si tienes un interceptor que maneja la autenticación y otro que maneja la autorización, es posible que desees ejecutar el interceptor de autenticación primero para asegurarte de que todas las solicitudes estén autenticadas antes de que el interceptor de autorización las procese.
+  
+- En resumen, puedes usar tantos interceptores como necesites en tu aplicación Angular, pero es importante diseñar y organizar tus interceptores de manera efectiva para mantener tu código limpio, modular y fácil de mantener.
 
 <div>
 
@@ -25,153 +34,6 @@
 <br></br>
 
 <img align="left" width="80" alt="Shimarin" src="https://firebasestorage.googleapis.com/v0/b/franki-briones.appspot.com/o/cubo%20code.gif?alt=media&token=dc699558-7eb1-4c61-9e27-daa45f53464f"/>
-
-
-<h2> - / current skills / </h2>
- 
-  <h4> Programming Languages </h4>
-   
-  <table>
-  <tr>
-      <td href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus"  alt="cplusplus" width="80" height="80"></td>
-      <td href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80"></td>
-      <td href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"" width="80" height="80"></td>
-      <td href="https://javascript.info/document" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"></td>
-      <td href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"></td>
-      <td href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"></td>
-  </tr>
-    
-  </table>
- 
-
-<h4> Frontend Development </h4>
-<table>
-<tr>
-    <td href="https://angular.io" target="_blank" rel="noreferrer">
-      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="80" height="80"></td>
-    <td href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"></td>
-    <td href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="html5"" width="80" height="80"></td>
-    <td href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="80" height="80"></td>
-    <td href="https://materializecss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="80" height="80"></td>
-    <td href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="80" height="80"></td>
-</tr>
-  
-</table>
-
-<h4> Backend Development </h4>
-
-<table>
-<tr>
-    <td href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"></td>
-    <td href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="80" height="80"></td>
-    <td href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"" width="80" height="80"></td>
-    <td href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="express" width="80" height="80"></td>
-    <td href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="typescript" width="80" height="80"></td>
-    <td href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="80" height="80"></td>
-</tr>
-  
-</table>
-
-<h4> Mobile App Development </h4>
-<table>
-<tr>
-    <td href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="80" height="80"></td>
-    <td href="https://ionicframework.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" width="80"  alt="ionic" height="80"></td>
-</tr>
-  
-</table>
-<h4> AI/ML </h4>
-
-<table>
-<tr>
-    <td href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="80" height="80"></td>
-
-</tr>
-  
-</table>
-<h4> Database </h4>
-
-<table>
-<tr>
-    <td href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"></td>
-    <td href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="80"  alt="mysql" height="80"></td>
-    <td href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="80" height="80"></td>
-    <td href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="80"  alt="mssql" height="80"></td>
-</tr>
-  
-</table>
-
-<h4> Data Visualization </h4>
-
-<table>
-<tr>
-    <td href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="80" height="80"></td>
-    <td href="https://canvasjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" width="80"  alt="canvasjs" height="80"></td>
-</tr>
-  
-</table>
-
-<h4> Devops </h4>
-
-<table>
-<tr>
-    <td href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="80"></td>
-    <td href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="80"  alt="gcp" height="80"></td>
-    <td href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/2110px-Kubernetes-icon-color.svg.png" alt="kubernetes" width="80" height="80"></td>
-</tr>
-  
-</table>
-                
-<h4> Backend as a Service(BaaS) </h4>
-
-<table>
-<tr>
-    <td href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"></td>
-    <td href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="80"  alt="heroku" height="80"></td> 
-</tr>
-  
-</table>
-<h4> Framework </h4>
-        
-<table>
-<tr>
-    <td href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="80" height="80"></td>
-    <td href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="80"  alt="flask" height="80"></td> 
-</tr>
-  
-</table>
-<h4> Testing </h4>
-        
-<table>
-<tr>
-    <td href="https://mochajs.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="80" height="80"></td>
-    <td href="https://jasmine.github.io/" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/jasmine-1-logo.png" width="80"  alt="jasmine" height="80"></td> 
-</tr>
-  
-</table>
-<h4> Software </h4>
-        
-<table>
-<tr>
-    <td href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="80"></td>
-    <td href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="80"  alt="matlab" height="80"></td>
-      <td href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="80"  alt="postman" height="80"></td> 
-</tr>
-  
-</table>
-<h4> Other </h4>
-<table>
-<tr>
-    <td href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"></td>
-    <td href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="80"  alt="git" height="80"></td>
-      <td href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="80"  alt="arduino" height="80"></td> 
-  <td href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="80"  alt="bootstrap" height="80"></td>
-    <td href="https://material.angular.io/" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/chjR4I5l3IvecljLsVUh0Agz7HetYQiZYZD8KDMXoYm-kZDI-pKvg4qEzzt9596aOOs" width="80"  alt="material angular" height="80"></td> 
-</tr>
-  
-</table>
- 
  
 <br></br>
 🌐 Let's connect and build something extraordinary together! 🚀✨
